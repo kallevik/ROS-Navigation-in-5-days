@@ -1,0 +1,8 @@
+<launch>
+    <node pkg="get_map_data"
+            type="call_map_service.py"
+            name="map_service_client"
+            output="screen"/>
+   
+
+</launch>
