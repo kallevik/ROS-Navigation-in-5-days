@@ -14,9 +14,18 @@ set(CMAKE_MAKEFILE_DEPENDS
   "catkin_generated/installspace/_setup_util.py"
   "catkin_generated/order_packages.cmake"
   "get_map_data/catkin_generated/package.cmake"
+  "get_pose/catkin_generated/package.cmake"
+  "my_amcl_launcher/catkin_generated/package.cmake"
+  "my_mapping_launcher/catkin_generated/package.cmake"
   "/home/user/catkin_ws/src/CMakeLists.txt"
   "/home/user/catkin_ws/src/get_map_data/CMakeLists.txt"
   "/home/user/catkin_ws/src/get_map_data/package.xml"
+  "/home/user/catkin_ws/src/get_pose/CMakeLists.txt"
+  "/home/user/catkin_ws/src/get_pose/package.xml"
+  "/home/user/catkin_ws/src/my_amcl_launcher/CMakeLists.txt"
+  "/home/user/catkin_ws/src/my_amcl_launcher/package.xml"
+  "/home/user/catkin_ws/src/my_mapping_launcher/CMakeLists.txt"
+  "/home/user/catkin_ws/src/my_mapping_launcher/package.xml"
   "/opt/ros/noetic/share/catkin/cmake/all.cmake"
   "/opt/ros/noetic/share/catkin/cmake/assert.cmake"
   "/opt/ros/noetic/share/catkin/cmake/atomic_configure_file.cmake"
@@ -162,6 +171,9 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "gtest/googlemock/CMakeFiles/CMakeDirectoryInformation.cmake"
   "gtest/googletest/CMakeFiles/CMakeDirectoryInformation.cmake"
   "get_map_data/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "get_pose/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "my_amcl_launcher/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "my_mapping_launcher/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
