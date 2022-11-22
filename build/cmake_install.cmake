@@ -133,8 +133,12 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/user/catkin_ws/build/gtest/cmake_install.cmake")
   include("/home/user/catkin_ws/build/get_map_data/cmake_install.cmake")
   include("/home/user/catkin_ws/build/get_pose/cmake_install.cmake")
+  include("/home/user/catkin_ws/build/initialize_particles/cmake_install.cmake")
+  include("/home/user/catkin_ws/build/make_plan/cmake_install.cmake")
   include("/home/user/catkin_ws/build/my_amcl_launcher/cmake_install.cmake")
   include("/home/user/catkin_ws/build/my_mapping_launcher/cmake_install.cmake")
+  include("/home/user/catkin_ws/build/my_move_base_launcher/cmake_install.cmake")
+  include("/home/user/catkin_ws/build/send_goals/cmake_install.cmake")
 
 endif()
 
