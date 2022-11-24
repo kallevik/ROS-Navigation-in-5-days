@@ -22,8 +22,8 @@ client.wait_for_server()
 # creates a goal to send to the action server
 goal = MoveBaseGoal()
 goal.target_pose.header.frame_id = 'map'
-goal.target_pose.pose.position.x = 10.16
-goal.target_pose.pose.position.y = -4.76
+goal.target_pose.pose.position.x = 3.16
+goal.target_pose.pose.position.y = -3.76
 goal.target_pose.pose.position.z = 0.0
 goal.target_pose.pose.orientation.x = 0.0
 goal.target_pose.pose.orientation.y = 0.0
